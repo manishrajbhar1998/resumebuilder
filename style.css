@@ -1,0 +1,17 @@
+#cv-form{
+    
+}
+
+.myimg{
+    /* border: 2px solid dodgerblue; */
+    border-radius: 50%;
+    box-shadow: 3px 3px 2px 2px deepskyblue;
+    width: 230px;
+    height: 250px;
+}
+.background{
+    background: rgb(185, 182, 180);
+}
+#cv-template{
+    display: none;
+}
